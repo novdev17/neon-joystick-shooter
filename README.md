@@ -78,4 +78,18 @@ Namun dikembangkan dengan gaya, mekanik, dan tampilan yang original.
 
 ## 📦 Struktur Project
 
+neon-joystick-shooter/
+│
+├── index.html
+├── README.md
+├── LICENSE
+│
+├── js/
+│   └── game.js
+│
+├── assets/
+│   ├── audio/
+│   └── images/
+
+
 
