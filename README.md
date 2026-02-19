@@ -7,14 +7,13 @@ https://pewpew-game-html-novdev.netlify.app/
 
 ---
 
-## 🌍 Language / Bahasa
+## 🌍 Language
 
-- 🇺🇸 English (Default)
-- 🇮🇩 Bahasa Indonesia tersedia di bawah ↓
+👉 [🇮🇩 Switch to Indonesian](#-bahasa-indonesia)
 
 ---
 
-## 🇺🇸 English Version
+## 🇺🇸 English
 
 ## 🎮 Description
 
@@ -30,143 +29,103 @@ Built using pure JavaScript, this game focuses on smooth controls, responsive ga
 - 👾 Dynamic enemy waves
 - ⚡ Ultimate ability system
 - 🎮 Smooth and responsive controls
-- 📱 Fully playable on desktop & mobile
-- 🔊 Lightweight sound effects
+- 📱 Desktop & mobile support
+- 🔊 Simple sound effects
 - 🧠 Progressive difficulty system
 
 ---
 
 ## 🔊 Audio
 
-The game includes simple sound effects:
-- Shooting feedback
-- Enemy hit sounds
+- Shooting sound
+- Enemy hit sound
 - Ultimate ability effect
 
-Audio is implemented using the Web Audio API for fast and lightweight performance.
+Implemented using Web Audio API.
 
 ---
 
-## 🕹️ How to Play
+## 🕹️ Controls
 
-Survive as long as possible by defeating enemies and avoiding damage.
-
-### Desktop Controls
+### Desktop
 - Move → W / A / S / D  
 - Shoot → Arrow Keys / Mouse  
 - Change Mode → Tab / Right Click  
 - Ultimate → Q / Middle Click  
-- Pause → P  
-- Restart → R  
 
-### Mobile Controls
+### Mobile
 - Left joystick → Move  
 - Right joystick → Shoot  
-- Buttons → Mode & Ultimate  
-
----
-
-## 🛠️ Technologies
-
-- HTML5 Canvas  
-- CSS  
-- Vanilla JavaScript  
-
----
-
-## 💡 Gameplay Mechanics
-
-- Enemies spawn randomly and increase over time  
-- Score increases when defeating enemies  
-- Ultimate ability consumes score  
-- Difficulty scales with progression  
 
 ---
 
 ## 🎯 Inspiration
 
-Inspired by twin-stick shooter games such as Pew Pew Live, with original gameplay mechanics and design.
-
-This project was created as a learning experience in game development and to build a fun arcade-style game.
+Inspired by classic twin-stick shooter games like Pew Pew Live, with original mechanics and design.
 
 ---
 
 ## 📜 License
 
-MIT License — free to use, modify, and distribute.
+MIT License
 
 ---
 
-## 🇮🇩 Versi Bahasa Indonesia
+# 🇮🇩 Bahasa Indonesia
+
+👉 [🇺🇸 Back to English](#-english)
 
 ## 🎮 Deskripsi
 
 Neon Pulse Shooter adalah game arcade cepat yang terinspirasi dari gameplay twin-stick shooter. Kamu mengendalikan pesawat dan melawan gelombang musuh tanpa henti.
 
-Game ini dibuat menggunakan JavaScript murni dengan fokus pada kontrol yang halus dan gameplay yang responsif.
+Game ini dibuat menggunakan JavaScript murni dengan fokus pada kontrol yang halus dan responsif.
 
 ---
 
 ## ✨ Fitur
 
-- 🎯 Berbagai mode tembakan (rapid, spread, burst)
+- 🎯 Mode tembakan (rapid, spread, burst)
 - 👾 Gelombang musuh dinamis
-- ⚡ Sistem ultimate
-- 🎮 Kontrol halus dan responsif
-- 📱 Bisa dimainkan di HP & komputer
+- ⚡ Skill ultimate
+- 🎮 Kontrol halus
+- 📱 Support HP & PC
 - 🔊 Efek suara sederhana
-- 🧠 Tingkat kesulitan meningkat
+- 🧠 Kesulitan meningkat
 
 ---
 
 ## 🔊 Audio
 
-Game ini memiliki efek suara sederhana:
 - Suara tembakan
-- Suara saat musuh terkena
-- Efek suara ultimate
+- Suara musuh terkena
+- Efek ultimate
 
-Audio dibuat menggunakan Web Audio API agar ringan dan cepat.
+Menggunakan Web Audio API.
 
 ---
 
-## 🕹️ Cara Bermain
+## 🕹️ Kontrol
 
-Bertahan selama mungkin dengan mengalahkan musuh dan menghindari serangan.
-
-### Kontrol PC
+### PC
 - Gerak → W / A / S / D  
 - Tembak → Arrow / Mouse  
 - Ganti Mode → Tab / Klik Kanan  
-- Ultimate → Q / Klik Tengah  
-- Pause → P  
-- Restart → R  
+- Ultimate → Q  
 
-### Kontrol HP
+### HP
 - Joystick kiri → Gerak  
 - Joystick kanan → Tembak  
-- Tombol → Mode & Ultimate  
 
 ---
 
-## 💡 Mekanik Game
+## 🎯 Inspirasi
 
-- Musuh muncul secara acak  
-- Skor bertambah saat mengalahkan musuh  
-- Ultimate menggunakan skor  
-- Level makin lama makin sulit  
+Terinspirasi dari game twin-stick shooter seperti Pew Pew Live, dengan mekanik yang original.
 
 ---
 
-## 🌐 Catatan Translate
+## 📜 Lisensi
 
-Jika GitHub tidak menerjemahkan otomatis:
-- Klik kanan → Translate to Indonesian  
-- Atau gunakan fitur translate di browser  
+MIT License
 
----
-
-## ❤️ Credits
-
-Created with passion for arcade shooter games.  
-Inspired by classic space shooters and modern gameplay style.
