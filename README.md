@@ -80,16 +80,22 @@ Namun dikembangkan dengan gaya, mekanik, dan tampilan yang original.
 
 neon-joystick-shooter/
 │
-├── index.html
-├── README.md
-├── LICENSE
+├── index.html          # File utama game (HTML kamu tadi)
+├── README.md           # Penjelasan project
+├── LICENSE             # License (MIT)
+│
+├── css/
+│   └── style.css       # Styling (kalau dipisah dari HTML)
 │
 ├── js/
-│   └── game.js
+│   └── game.js         # Semua script game
 │
 ├── assets/
-│   ├── audio/
-│   └── images/
+│   ├── audio/          # Sound effect (shoot, explosion, dll)
+│   └── images/         # Gambar (kalau nanti nambah)
+│
+└── docs/
+    └── preview.png     # Screenshot game buat README
 
 
 
