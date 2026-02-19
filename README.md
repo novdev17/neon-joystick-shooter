@@ -6,7 +6,7 @@ Game arcade shooter bergaya neon dengan kontrol dual joystick yang responsif. Di
 
 👉 [Klik untuk bermain](https://pewpew-game-html-novdev.netlify.app)
 
-Disarankan bermain dalam mode landscape jika menggunakan HP 📱
+Disarankan bermain dalam mode portrait jika menggunakan HP 📱
 
 ---
 
