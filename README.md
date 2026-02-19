@@ -121,7 +121,7 @@ Menggunakan Web Audio API.
 
 ## 🎯 Inspirasi
 
-Terinspirasi dari game twin-stick shooter seperti Pew Pew Live, dengan mekanik yang original.
+Terinspirasi dari game twin-stick shooter seperti [Pew Pew Live] (pewpew.live) dengan mekanik yang original.
 
 ---
 
